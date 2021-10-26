@@ -24,7 +24,7 @@ Este Sistema de Asistencia de Empleados en PHP y SQLite que comparto permite Cre
 
 Cualquier duda sobre la puesta a punto de la aplicación en un servidor local, en el siguiente blog post la puedes resolver:
 
-https://www.configuroweb.com/sistema-de-asistencia-de-empleados-en-php-y-sqlite/
+https://www.configuroweb.com/46-aplicaciones-gratuitas-en-php-python-y-javascript/#Sistema-de-Asistencia-de-Empleados-en-PHP-y-SQLite
 
 Si deseas hacer cualquier cambio a la aplicación o un desarrollo a medida de cualquier índole me puedes contactar directo a mi Whatsapp Messenger en el siguiente enlace:
 
